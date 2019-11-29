@@ -1,0 +1,42 @@
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.dll.config
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.pdb
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\Newtonsoft.Json.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\Newtonsoft.Json.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.pdb
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\TED-TP3-WEB.dll.config
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\TED-TP3-WEB.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\TED-TP3-WEB.pdb
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\Newtonsoft.Json.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Web.Http.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\Newtonsoft.Json.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Web.Http.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.dll
+C:\Users\Nico\Desktop\TED-TP3-WEB - copia\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.pdb
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.dll.config
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\TED-TP3-WEB.pdb
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\Newtonsoft.Json.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\Newtonsoft.Json.xml
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.xml
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.dll
+C:\Users\Nico\Google Drive\UTN\2018 [4K1]\TED [3K12]\TP3\El Definitivo\TED-TP3-WEB\TED-TP3-WEB\obj\Debug\TED-TP3-WEB.pdb

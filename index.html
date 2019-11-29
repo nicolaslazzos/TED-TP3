@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Quimica 2.0</title>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <!--ESTE aungular-old FUNCIONA CON EL angular-route, EN CAMBIO SI USO LA OTRA VERSION NO-->
+    <script src="js/angular-old.js"></script>
+    <script src="js/angular-route.js"></script>
+    <script src="js/app.js"></script>
+</head>
+<body ng-app="app" ng-controller="appController" class="bg-light">
+    <nav class="navbar navbar-expand-lg navbar-{{temaSeccion}} bg-{{colorSeccion}}">
+        <a class="navbar-brand" href="#/Inicio">
+            <img src="/icons/test.svg" width="30" height="30" class="d-inline-block align-top" alt="" ng-show="colorSeccion === 'warning'">
+            <img src="/icons/test_white.svg" width="30" height="30" class="d-inline-block align-top" alt="" ng-show="colorSeccion != 'warning'">
+            Química 2.0
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#/Inicio">Inicio<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#/Unidad1">Unidad N° 1</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#/Unidad2">Unidad N° 2</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#/Unidad3">Unidad N° 3</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#/Unidad4">Unidad N° 4</a>
+                </li>
+            </ul>
+            <form class="form-inline">
+                <a class="btn btn-outline-{{temaBotones}}" href="#/Juego" style="margin-right:10px">Jugar a La Oca</a>
+                <a class="btn btn-outline-{{temaBotones}}" href="#/Simulador">Simulador de Estados de la Materia</a>
+            </form>
+        </div>
+    </nav>
+
+    <div ng-view></div>
+
+    <footer class="container">
+        <p>&copy; Jornet & Lazzos - Tecnologia Educativa - 2018</p>
+    </footer>
+</body>
+</html>
